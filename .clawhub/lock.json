@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "tiangong-wps-word-automation": {
+      "version": "0.1.0",
+      "installedAt": 1775098924729
+    },
+    "generate-word-docx": {
+      "version": "1.0.0",
+      "installedAt": 1775098939842
+    }
+  }
+}
