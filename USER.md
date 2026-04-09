@@ -6,7 +6,7 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:** 主人
 - **Pronouns:** _(未知)_
 - **Timezone:** Asia/Shanghai (GMT+8)
-- **Notes:** 用户给我起名"珺珺"，2026-03-20
+- **Notes:** 用户给我起名"珺珺"，2026-03-20；用户头像：`avatars/user-avatar.jpg`，2026-04-09
 
 ## Context
 
